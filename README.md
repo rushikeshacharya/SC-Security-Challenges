@@ -1,1 +1,1 @@
-# SC-Security-Challenges
+# Smart Contract Security Challenge
